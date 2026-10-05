@@ -23,27 +23,25 @@ body {
   background: radial-gradient(circle at 50% 40%, #1c2027 0%, #0d0f12 70%);
 }
 
-/* headline */
 .headline {
   font-size: clamp(1.1rem, 3.4vw, 2.8rem);
   font-weight: 500;
   letter-spacing: 0.6em;
   text-align: center;
-  padding-left: 0.6em; /* balances the trailing letter-spacing */
+  padding-left: 0.6em; 
 }
 
 .headline .letter {
   display: inline-block;
 }
 
-/* road + car */
 .track {
   position: relative;
   width: 100%;
   height: 220px;
   display: flex;
   align-items: center;
-  justify-content: flex-start; /* car starts at the far left */
+  justify-content: flex-start; 
 }
 
 .road-lines {
@@ -63,7 +61,6 @@ body {
   will-change: transform;
 }
 
-/* stats */
 .stats {
   display: flex;
   gap: 60px;
@@ -73,7 +70,7 @@ body {
 }
 
 .stat {
-  opacity: 0; /* hidden until the car drives past */
+  opacity: 0; 
 }
 
 .stat h2 {
