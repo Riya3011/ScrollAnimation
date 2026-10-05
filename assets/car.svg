@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 220">
+  <!-- top view of a sports car, facing right -->
+  <rect x="95" y="8" width="70" height="26" rx="9" fill="#111"/>
+  <rect x="95" y="186" width="70" height="26" rx="9" fill="#111"/>
+  <rect x="340" y="8" width="70" height="26" rx="9" fill="#111"/>
+  <rect x="340" y="186" width="70" height="26" rx="9" fill="#111"/>
+  <path d="M25 110 C25 62 60 34 110 30 L330 28 C400 30 462 60 478 110 C462 160 400 190 330 192 L110 190 C60 186 25 158 25 110Z" fill="#ff5a2c"/>
+  <path d="M25 110 C25 62 60 34 110 30 L120 30 C70 50 48 80 48 110 C48 140 70 170 120 190 L110 190 C60 186 25 158 25 110Z" fill="#d94419"/>
+  <!-- bonnet line + cabin glass -->
+  <path d="M300 48 C380 52 440 78 456 110 C440 142 380 168 300 172Z" fill="#e8501f"/>
+  <path d="M170 56 L290 62 L300 110 L290 158 L170 164 C150 140 150 80 170 56Z" fill="#12161b"/>
+  <path d="M185 70 L270 74 L277 110 L270 146 L185 150 C172 130 172 90 185 70Z" fill="#1f2630"/>
+  <!-- headlights + tail lights -->
+  <path d="M452 82 L474 98 L460 104Z M452 138 L474 122 L460 116Z" fill="#fff3c4"/>
+  <rect x="26" y="78" width="10" height="22" rx="4" fill="#ff1d1d"/>
+  <rect x="26" y="120" width="10" height="22" rx="4" fill="#ff1d1d"/>
+  <!-- mirrors -->
+  <ellipse cx="292" cy="48" rx="12" ry="6" fill="#d94419"/>
+  <ellipse cx="292" cy="172" rx="12" ry="6" fill="#d94419"/>
+</svg>
